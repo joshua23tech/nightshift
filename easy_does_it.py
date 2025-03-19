@@ -5,3 +5,4 @@ str_nba_next_gen_all_stars = [f"{nba_next_gen} has been nominated for his first 
 for all_star in str_nba_next_gen_all_stars:
     print(all_star)
 
+print("Still working")
